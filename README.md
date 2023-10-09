@@ -23,5 +23,5 @@ __ПО__: Blender3d
 Модель была создана с целью показать размеры космических объектов. И показать людям размеры планет.
 
 ### Котакты: 
-* Основной канал: [Chessplayer - IT Specialist]("https://www.youtube.com/@chessplayeritspecialist")  
-* Канал разработчика: [Alexey Gantsevich]("https://www.youtube.com/channel/UCt7oE2_eelKlB88rXJ00jXg")
+* Основной канал: [Chessplayer - IT Specialist](https://www.youtube.com/@chessplayeritspecialist)  
+* Канал разработчика: [Alexey Gantsevich](https://www.youtube.com/channel/UCt7oE2_eelKlB88rXJ00jXg)
